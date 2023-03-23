@@ -3,3 +3,133 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adformR"]
+	path = adformR
+	url = https://github.com/cran/adformR
+	shallow = true
+	registered = true
+[submodule "amazonadsR"]
+	path = amazonadsR
+	url = https://github.com/cran/amazonadsR
+	shallow = true
+	registered = true
+[submodule "amazons3R"]
+	path = amazons3R
+	url = https://github.com/cran/amazons3R
+	shallow = true
+	registered = true
+[submodule "amazonspR"]
+	path = amazonspR
+	url = https://github.com/cran/amazonspR
+	shallow = true
+	registered = true
+[submodule "appleadsR"]
+	path = appleadsR
+	url = https://github.com/cran/appleadsR
+	shallow = true
+	registered = true
+[submodule "appsflyeR"]
+	path = appsflyeR
+	url = https://github.com/cran/appsflyeR
+	shallow = true
+	registered = true
+[submodule "awinR"]
+	path = awinR
+	url = https://github.com/cran/awinR
+	shallow = true
+	registered = true
+[submodule "bingadsR"]
+	path = bingadsR
+	url = https://github.com/cran/bingadsR
+	shallow = true
+	registered = true
+[submodule "campaignmanageR"]
+	path = campaignmanageR
+	url = https://github.com/cran/campaignmanageR
+	shallow = true
+	registered = true
+[submodule "facebookadsR"]
+	path = facebookadsR
+	url = https://github.com/cran/facebookadsR
+	shallow = true
+	registered = true
+[submodule "facebookleadsR"]
+	path = facebookleadsR
+	url = https://github.com/cran/facebookleadsR
+	shallow = true
+	registered = true
+[submodule "facebookorganicR"]
+	path = facebookorganicR
+	url = https://github.com/cran/facebookorganicR
+	shallow = true
+	registered = true
+[submodule "fetchGoogleAnalyticsR"]
+	path = fetchGoogleAnalyticsR
+	url = https://github.com/cran/fetchGoogleAnalyticsR
+	shallow = true
+	registered = true
+[submodule "fetchSalesforceR"]
+	path = fetchSalesforceR
+	url = https://github.com/cran/fetchSalesforceR
+	shallow = true
+	registered = true
+[submodule "googleadsR"]
+	path = googleadsR
+	url = https://github.com/cran/googleadsR
+	shallow = true
+	registered = true
+[submodule "instagramadsR"]
+	path = instagramadsR
+	url = https://github.com/cran/instagramadsR
+	shallow = true
+	registered = true
+[submodule "linkedInadsR"]
+	path = linkedInadsR
+	url = https://github.com/cran/linkedInadsR
+	shallow = true
+	registered = true
+[submodule "mailchimpR"]
+	path = mailchimpR
+	url = https://github.com/cran/mailchimpR
+	shallow = true
+	registered = true
+[submodule "pinterestadsR"]
+	path = pinterestadsR
+	url = https://github.com/cran/pinterestadsR
+	shallow = true
+	registered = true
+[submodule "quoradsR"]
+	path = quoradsR
+	url = https://github.com/cran/quoradsR
+	shallow = true
+	registered = true
+[submodule "redditadsR"]
+	path = redditadsR
+	url = https://github.com/cran/redditadsR
+	shallow = true
+	registered = true
+[submodule "shopifyadsR"]
+	path = shopifyadsR
+	url = https://github.com/cran/shopifyadsR
+	shallow = true
+	registered = true
+[submodule "snapchatadsR"]
+	path = snapchatadsR
+	url = https://github.com/cran/snapchatadsR
+	shallow = true
+	registered = true
+[submodule "taboolaR"]
+	path = taboolaR
+	url = https://github.com/cran/taboolaR
+	shallow = true
+	registered = true
+[submodule "tiktokadsR"]
+	path = tiktokadsR
+	url = https://github.com/cran/tiktokadsR
+	shallow = true
+	registered = true
+[submodule "twitteradsR"]
+	path = twitteradsR
+	url = https://github.com/cran/twitteradsR
+	shallow = true
+	registered = true
